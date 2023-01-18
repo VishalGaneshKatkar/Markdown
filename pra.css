@@ -1,0 +1,49 @@
+.container{
+    
+  width: 113px;
+  height: 350px;
+  padding: 10px;
+  border: 2px solid blue;    
+  /* background-color: yellow;  */
+    /* position: relative; */
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+
+img{
+    /* position: absolute; */
+   /* width: 70%; */
+}
+
+.one,.three,.two{
+    
+    /* border: 2px solid red; */
+    
+}
+
+.one{
+    width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+  /* position: absolute; */
+  /* z-index: 3; */
+}
+.two{
+    width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow;
+
+}
+.three{
+    width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+  /* position: absolute; */
+}
