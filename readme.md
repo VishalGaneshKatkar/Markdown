@@ -45,8 +45,10 @@ let a=100;
 
 ## quote
 
->learn to have patience.
->Take guidance 
+> learn to have patience.
+
+> Take guidance. 
+
 ## list
 
 1. ram
